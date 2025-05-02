@@ -3,12 +3,13 @@ Project Repository
 
 ## BAIS3250 Project README
 
-This section is for providing background on info related to the project and this repository.\
-| Plugin | README |
+This section is for providing background on info related to the project and this repository.
+
+| Name | Source |
 | ------ | ------ |
-| Dropbox | [plugins/dropbox/README.md][PlDb] |
-| GitHub | [plugins/github/README.md][PlGh] |
-| Google Drive | [plugins/googledrive/README.md][PlGd] |
-| OneDrive | [plugins/onedrive/README.md][PlOd] |
-| Medium | [plugins/medium/README.md][PlMe] |
-| Google Analytics | [plugins/googleanalytics/README.md][PlGa] |
+| Iowa Economic Indicators Data Set | [plugins/github/README.md] |
+| Bureau of Economic Analysis | [plugins/github/README.md][PlGh] |
+
+
+https://catalog.data.gov/dataset/iowa-economic-indicators
+https://apps.bea.gov/iTable/?reqid=70&step=1#eyJhcHBpZCI6NzAsInN0ZXBzIjpbMSwyOSwyNSwzMSwyNiwyNywzMF0sImRhdGEiOltbIlRhYmxlSWQiLCI2MDAiXSxbIk1ham9yX0FyZWEiLCIwIl0sWyJTdGF0ZSIsWyIwIl1dLFsiQXJlYSIsWyIxOTAwMCJdXSxbIlN0YXRpc3RpYyIsWyIxIl1dLFsiVW5pdF9vZl9tZWFzdXJlIiwiTGV2ZWxzIl0sWyJZZWFyIixbIi0xIl1dLFsiWWVhckJlZ2luIiwiLTEiXSxbIlllYXJfRW5kIiwiLTEiXV19
