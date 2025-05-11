@@ -4,7 +4,7 @@ This section is for providing background on info related to the project and this
 
 ## Respository Overview
 
-This repository contains folders for the Data used, Jupyter Notebook containing code, and others.
+This repository contains folders for the Data used, Jupyter Notebook containing code, and Word Document Project Report.
 
 ## Project Overview
 
